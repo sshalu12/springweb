@@ -1,2 +1,2 @@
-Simple Calculator to add two number
-Print employee information
+- Simple Calculator to add two number
+- Print employee information
